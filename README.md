@@ -1,4 +1,4 @@
- 
+![](https://raw.githubusercontent.com/sony/nnabla-examples/master/facial-motion-transfer/first-order-model/imgs/sample_fake.gif)
 # First Order Motion Model for Image Animation
  
 [Hugging Face Spaces](https://huggingface.co/spaces/abhishek/first-order-motion-model)
